@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# Python
+backend/venv
+backend/.venv
+backend/__pycache__
+backend/**/*.pyc
+
+# DB / OS
+backend/integrity.db
+.DS_Store
+
+# Env files
+*.env
